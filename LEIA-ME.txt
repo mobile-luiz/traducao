@@ -24,8 +24,12 @@ AJUSTAR OU TRADUZIR À MÃO
 - Os ajustes ficam salvos no navegador. "Salvar ajustes (.json)" guarda em arquivo.
 
 TRADUÇÃO AUTOMÁTICA DE MATERIAIS NOVOS
-Os botões "Traduzir esta página" e "Traduzir todas" usam o Claude e só
-funcionam com o sistema aberto pelo link do claude.ai:
-https://claude.ai/artifact/EwxkoKGNnXh1Bj8g3PCjEC
-Aberto pelo arquivo no computador, eles avisam que não estão disponíveis;
-nesse caso use "Cobrir área" e "Novo texto".
+Ao enviar o arquivo, as páginas novas são traduzidas sozinhas (acompanhe
+embaixo da página). Os botões "Traduzir esta página" / "Traduzir todas"
+servem para refazer a tradução.
+- Precisa de internet.
+- PDF com texto selecionável: traduz direto.
+- PDF escaneado / só imagem: primeiro o sistema lê as letras da imagem
+  (leva uns segundos por página na primeira vez) e depois traduz.
+- Confira sempre: letras muito enfeitadas ou textos dentro de desenhos
+  podem não ser lidos. Complete com "Cobrir área" e "Novo texto".
