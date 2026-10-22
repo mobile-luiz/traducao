@@ -1,0 +1,31 @@
+SISTEMA - ATIVIDADES EM ITALIANO
+================================
+
+COMO ABRIR
+1. Descompacte esta pasta inteira (não abra direto de dentro do .zip).
+2. Dê dois cliques em "atividades-italiano.html" (Chrome, Edge ou Firefox).
+   Funciona até sem internet: as bibliotecas estão na pasta "lib".
+   Com internet, as fontes (Poppins e Alike) ficam idênticas às das atividades.
+
+COMO USAR
+1. Clique em "Enviar atividades" e escolha o .zip, o PDF ou as imagens PNG.
+   Pode enviar vários arquivos de uma vez.
+2. As páginas das atividades de TDAH já conhecidas aparecem traduzidas na hora.
+3. Use "Italiano / Original" no topo para comparar.
+4. Baixe com "Baixar página" (PNG), "Baixar tudo (.zip)" ou "Baixar PDF".
+   Os arquivos vão para a pasta Downloads.
+
+AJUSTAR OU TRADUZIR À MÃO
+- Mover: clique num texto e arraste (setas do teclado = 1 px; com Shift = 10 px).
+- Painel da direita: mude texto, tamanho, fonte e cor.
+- Cobrir área: arraste sobre o texto em português (pega a cor do fundo sozinho).
+- Novo texto: clique onde quer escrever.
+- Restaurar página: volta à tradução padrão.
+- Os ajustes ficam salvos no navegador. "Salvar ajustes (.json)" guarda em arquivo.
+
+TRADUÇÃO AUTOMÁTICA DE MATERIAIS NOVOS
+Os botões "Traduzir esta página" e "Traduzir todas" usam o Claude e só
+funcionam com o sistema aberto pelo link do claude.ai:
+https://claude.ai/artifact/EwxkoKGNnXh1Bj8g3PCjEC
+Aberto pelo arquivo no computador, eles avisam que não estão disponíveis;
+nesse caso use "Cobrir área" e "Novo texto".
